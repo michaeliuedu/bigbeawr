@@ -1,4 +1,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeawr&theme=dark" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigbeawr&show_icons=true&theme=radical)
 
 - 👋 Hi, I’m @bigbeawr
 - 👀 I’m interested in creating cheats for games
