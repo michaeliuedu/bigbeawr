@@ -1,14 +1,18 @@
-[![bigbeawr's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigbeawr&show_icons=true&theme=radical)](https://github.com/bigbeawr)
+## &#x1f4c8; GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeawr&show_icons=true&theme=radical&layout=compact)](https://github.com/bigbeawr)
+<a href="https://github.com/bigbeawr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeawr&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/bigbeawr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigbeawr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-- 👋 Hi, I’m @bigbeawr
-- 👀 I’m interested in creating cheats for games
-- 🌱 I’m currently learning more on machine learning
-- 💞️ I’m looking to collaborate on science projects
+<a href="https://github.com/bigbeawr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbeawr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
-<!---
-bigbeawr/bigbeawr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/bigbeawr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbeawr&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
