@@ -1,5 +1,7 @@
 [![bigbeawr's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigbeawr&show_icons=true&theme=radical)](https://github.com/bigbeawr)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeawr&layout=compact)](https://github.com/bigbeawr)
+
 - 👋 Hi, I’m @bigbeawr
 - 👀 I’m interested in creating cheats for games
 - 🌱 I’m currently learning more on machine learning
