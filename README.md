@@ -1,4 +1,4 @@
-[![bigbeawr's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigbeawr&show_icons=true)](https://github.com/bigbeawr)
+[![bigbeawr's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigbeawr&show_icons=true&theme=radical)](https://github.com/bigbeawr)
 
 - 👋 Hi, I’m @bigbeawr
 - 👀 I’m interested in creating cheats for games
