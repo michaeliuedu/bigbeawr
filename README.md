@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbeawr&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeawr&theme=dark" />
 
 - 👋 Hi, I’m @bigbeawr
 - 👀 I’m interested in creating cheats for games
