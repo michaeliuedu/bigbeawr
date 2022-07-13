@@ -3,8 +3,6 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&&logo=c&logoColor=white&color=2bbc8a)
 
-## Stats
-
 <a href="https://github.com/bigbeawr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeawr&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
